@@ -1,0 +1,6 @@
+test_piano_1: close
+test_piano_2: close, soft piano music
+test_piano_3: farther away
+test_bass_1: close, just one tone
+test_talking_1: close, saying hello
+test_blockingLight_1: just blocking laser occasionally
