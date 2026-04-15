@@ -1,3 +1,0 @@
-main: visualizer
-noise_filter
-speech_to_text

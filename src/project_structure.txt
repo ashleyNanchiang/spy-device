@@ -1,0 +1,9 @@
+=== project files ===
+main: for gui
+visualizer: waveform plot
+noise_filter: filter out noise
+speech_to_text: 
+
+=== maybe? ===
+record: for recording
+vis: (in progress) waveform plot with pyqtgraph instead of matplotlib
